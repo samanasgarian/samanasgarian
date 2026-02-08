@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Welcome](https://media.giphy.com/media/3o7TKP2QGZsZs6v7lC/giphy.gif)
+
 <!--
 **samanasgarian/samanasgarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [Welcome](https://media.giphy.com/media/3o7TKP2QGZsZs6v7lC/giphy.gif)
