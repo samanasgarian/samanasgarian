@@ -44,7 +44,5 @@
   <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samanasgarian/samanasgarian/output/github-contribution-grid-snake.svg" />
-</p>
+
 
