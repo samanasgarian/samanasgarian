@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/)" alt="Coding GIF" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Saman Asgarian</h1>
