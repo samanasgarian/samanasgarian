@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydG81bDdneW80eW1nNGY4amhkdnMwOTlqcWloYTUyb25iYnUxOWRocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Coding GIF" width="900"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydG81bDdneW80eW1nNGY4amhkdnMwOTlqcWloYTUyb25iYnUxOWRocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Coding GIF" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Saman Asgarian</h1>
