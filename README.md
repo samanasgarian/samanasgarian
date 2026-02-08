@@ -31,17 +31,16 @@
   <img src="https://komarev.com/ghpvc/?username=saman-asgarian&color=blue" alt="Profile Views"/>
 </p>
 
----
-
+<!--
 ## 🔹 Featured Projects
 - [Project1](https://github.com/saman-asgarian/Project1) – Short description
 - [Project2](https://github.com/saman-asgarian/Project2) – Short description
 - [Project3](https://github.com/saman-asgarian/Project3) – Short description
 
----
+-->
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+  <i>“A JOURNEY TO INFINITY!” – Cory House</i>
 </p>
 
 <!--
