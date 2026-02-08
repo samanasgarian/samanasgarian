@@ -26,13 +26,6 @@
 
 ---
 
-## 🔹 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saman-asgarian&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
----
-
 ## 🔹 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saman-asgarian&color=blue" alt="Profile Views"/>
