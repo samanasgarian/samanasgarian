@@ -1,16 +1,52 @@
-# سلام 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=00000000&width=500&lines=Hello,+I'm+Saman;C+++Developer;Open+Source+Enthusiast)
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding GIF" width="300"/>
+</p>
 
-![Welcome](https://media.giphy.com/media/3o7TKP2QGZsZs6v7lC/giphy.gif)
+<h1 align="center">Hi 👋, I'm Saman Asgarian</h1>
+<p align="center">C++ Developer | Open Source Enthusiast | Algorithm Lover</p>
 
-## 🔹 مهارت‌ها
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/saman-asgarian" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-## 🔹 پروژه‌های منتخب
-- [Project1](link) – توضیح کوتاه
-- [Project2](link) – توضیح کوتاه
+---
 
-## 🔹 آمار GitHub
-![Saman's GitHub stats](https://github-readme-stats.vercel.app/api?username=saman-asgarian&show_icons=true&theme=radical)
+## 🛠️ Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+</p>
+
+---
+
+## 🔹 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saman-asgarian&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 🔹 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saman-asgarian&color=blue" alt="Profile Views"/>
+</p>
+
+---
+
+## 🔹 Featured Projects
+- [Project1](https://github.com/saman-asgarian/Project1) – Short description
+- [Project2](https://github.com/saman-asgarian/Project2) – Short description
+- [Project3](https://github.com/saman-asgarian/Project3) – Short description
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+</p>
