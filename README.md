@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Saman Asgarian</h1>
-<p align="center">C++ Developer | Open Source Enthusiast | Algorithm Lover</p>
+<p align="center">Developer | Open Source Enthusiast | Algorithm Lover</p>
 
 <p align="center">
   <a href="https://ca.linkedin.com/in/saman-asgarian-91b053338" target="_blank">
@@ -18,7 +18,7 @@
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
+
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git" alt="Git"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
